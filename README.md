@@ -1,7 +1,7 @@
 ### Hi, I'm Paisseon
 
 - 🍎 Open source iOS hacker
-- 🔭 Working on: Satella, Vivy, Reverie, CustomPass
+- 🔭 Working on: Satella, Vivy, Reverie, CustomPass, Kanon
 - 💻 I reverse engineer Mach-O binaries sometimes
 - 🏴‍☠️ Piracy is more ethical than supporting capitalism
 - 🌱 Learning ObjC, Ren'Py, Swift, Rust
