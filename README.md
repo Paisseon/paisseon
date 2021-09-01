@@ -8,7 +8,7 @@ Hey, I'm Paisseon, that one hacker who occasionally makes release posts on r/jb_
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay.
 
 ### Currently in Development
-- \[Argyle] Initial release. Better than Redeb. A somewhat different approach from Debra on ![Sudo's repo](https://sudocat-dev.github.io/repo).
+- \[Argyle] Initial release. Better than Redeb. A somewhat different approach from Debra on [Sudo's repo](https://sudocat-dev.github.io/repo).
 - \[CustomPass] Initial release. It lets you choose whatever symbols you want for the passcode. Does not actually change passcode, just the symbols.
 - \[CyDown++] Add Cydia compatiblity.
 - \[Raida] Initial release. Enable Apple's built-in multitasking features on iPhone
