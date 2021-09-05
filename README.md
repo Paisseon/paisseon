@@ -1,4 +1,4 @@
-### Whoami
+### About Me
 Hey, I'm Paisseon, that one hacker who occasionally makes release posts on r/jb_. I'm a weeb (could you tell?) who likes Re:Zero, the When They Cry series, DDLC, Madoka Magica, and a lot of other things that would be too long to list. My primary focus is iOS 13-14 tweak development.
 
 ### Contact Me
@@ -20,6 +20,6 @@ Those are the two places where I actually see messages. GitHub issues don't give
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
 ![emilia-tan maji tenshi](https://img.shields.io/badge/waifu-emilia-%234a00cc)
 
-<img style="float: right" src="https://github-readme-stats.vercel.app/api?username=paisseon&show_icons=true&count_private=true&theme=dark&hide_title=true">
+![github stats](https://github-readme-stats.vercel.app/api?username=paisseon&show_icons=true&count_private=true&theme=dark&hide_title=true)
 
-<img style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paisseon&theme=dark&layout=compact&hide_title=true">
+![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paisseon&theme=dark&layout=compact&hide_title=true)
