@@ -11,6 +11,8 @@ Those are the two places where I actually see messages. GitHub issues don't give
 - \[Argyle] Initial release. Better than Redeb. A somewhat different approach from Debra on [Sudo's repo](https://sudocat-dev.github.io/repo).
 - \[CustomPass] Initial release. It lets you choose whatever symbols you want for the passcode. Does not actually change passcode, just the symbols.
 - \[CyDown++] Add Cydia compatiblity.
+- \[Logos] Initial release. A definition of Objective-C/Logos for the Nova text editor.
+- \[Pandora] Initial release. A video wallpaper tweak written in Swift/Orion.
 - \[Raida] Initial release. Enable Apple's built-in multitasking features on iPhone
 - \[Reverie] Add option to disable Reverie when device is charging.
 - \[Satella] Scrap the old server-sided receipt faker, add a local, pure ObjC one.
