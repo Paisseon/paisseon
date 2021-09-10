@@ -3,7 +3,7 @@ Hey, I'm Paisseon, that one hacker who occasionally makes release posts on r/jb_
 
 ### Contact Me
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
-- EMT#2175 on Discord ([join CyPwn!](https://discord.gg/cZ2gBRZvwW))
+- EMT#8454 on Discord ([join CyPwn!](https://discord.gg/cZ2gBRZvwW))
 
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay.
 
