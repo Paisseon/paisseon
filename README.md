@@ -1,5 +1,7 @@
 ### About Me
-Hey, I'm Paisseon, that one hacker who occasionally makes release posts on r/jb_. I'm a weeb (could you tell?) who likes Re:Zero, the When They Cry series, DDLC, Madoka Magica, and a lot of other things that would be too long to list. My primary focus is iOS 13-14 tweak development.
+Just a random iOS hacker who really (凄く) loves Emilia. I also like the When They Cry series, DDLC, and black tea. Almost everything you'll see here is related to tweak development for iOS 13-14. Also, here is a red truth for you:
+
+![Everything I speak in red is the truth](https://lingtalfi.com/services/pngtext?color=cc0000&size=12&text=All%20my%20tweaks%20will%20have%20many%20bugs,%20with%20certainty.)
 
 ### Contact Me
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
@@ -8,15 +10,18 @@ Hey, I'm Paisseon, that one hacker who occasionally makes release posts on r/jb_
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay.
 
 ### Currently in Development
-- \[Argyle] Initial release. Better than Redeb. A somewhat different approach from Debra on [Sudo's repo](https://sudocat-dev.github.io/repo).
+- \[All Tweaks] Depictions for non-Sileo package managers. Thanks to Bryce!
+- \[Argyle] Possibly cancelled or delayed. Debra on [Sudo's repo](https://sudocat-dev.github.io/repo) is really good, use it.
+- \[CCCalc] Make a better fix with less bugs, I suppose.
 - \[CustomPass] Initial release. It lets you choose whatever symbols you want for the passcode. Does not actually change passcode, just the symbols.
-- \[CyDown++] Add Cydia compatiblity.
+- \[CyDown++] Fix Cydia on arm64e devices.
+- \[DarkKeysReborn] Full rewrite, probably won't add anything new but the code was awful.
 - \[Logos] Initial release. A definition of Objective-C/Logos for the Nova text editor.
 - \[Pandora] Initial release. A video wallpaper tweak written in Swift/Orion.
-- \[Raida] Initial release. Enable Apple's built-in multitasking features on iPhone
-- \[Reverie] Add option to disable Reverie when device is charging.
-- \[Satella] Scrap the old server-sided receipt faker, add a local, pure ObjC one.
-- \[Vivy] Completely change theme selection because the current way sucks. This new one allows you to use a custom battery icon straight from the preferences.
+- \[Raida] Initial release. Enable Apple's built-in multitasking features on iPhone.
+- \[Reverie] Actively updated but nothing WIP.
+- \[Satella] Possibly sandbox the receipt faker so it crashes less.
+- \[Vivy] Actively updated but nothing WIP.
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
