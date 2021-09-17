@@ -1,7 +1,7 @@
 ### About Me
 Just a random iOS hacker who really (凄く) loves Emilia. I also like the When They Cry series, DDLC, and black tea. Almost everything you'll see here is related to tweak development for iOS 13-14. Also, here is a red truth for you:
 
-![Everything I speak in red is the truth](https://lingtalfi.com/services/pngtext?color=cc0000&size=10&text=All%20my%20tweaks%20will%20have%20many%20bugs,%20with%20certainty.)
+![Everything I speak in red is the truth](https://lingtalfi.com/services/pngtext?color=cc0000&size=12&text=All%20my%20tweaks%20will%20have%20many%20bugs,%20with%20certainty.)
 
 ### Contact Me
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
