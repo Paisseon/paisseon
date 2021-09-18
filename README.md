@@ -14,14 +14,13 @@ Those are the two places where I actually see messages. GitHub issues don't give
 - \[Argyle] Possibly cancelled or delayed. Debra on [Sudo's repo](https://sudocat-dev.github.io/repo) is really good, use it.
 - \[CCCalc] Making a better fix with less bugs, I suppose.
 - \[CustomPass] Coming soon. It lets you choose whatever symbols you want for the passcode. Does not actually change passcode, just the symbols.
-- \[CyDown++] Fix Cydia on arm64e devices.
 - \[DarkKeysReborn] Full rewrite, probably won't add anything new but the code was awful.
-- \[Logos] Coming soon. A definition of Objective-C/Logos for the Nova text editor.
+- \[ObjC-Nova] Coming soon. A definition of Objective-C/Logos for the Nova text editor.
 - \[Pandora] Coming soon. A video wallpaper tweak written in Swift/Orion.
 - \[Raida] Coming soon. Enable Apple's built-in multitasking features on iPhone.
 - \[Reverie] Actively updated but nothing WIP.
 - \[Satella] Possibly sandbox the receipt faker so it crashes less.
-- \[Vivy] Actively updated but nothing WIP.
+- \[Vivy] Add option for Eliza-style colouring.
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
