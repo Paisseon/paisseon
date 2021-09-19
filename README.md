@@ -7,18 +7,15 @@ Just a random iOS hacker who really (凄く) loves Emilia. I also like the When 
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
 - EMT#8454 on Discord ([join CyPwn!](https://discord.gg/cZ2gBRZvwW))
 
-Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay.
+Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
 ### Currently in Development
 - \[All Tweaks] Depictions for non-Sileo package managers. Thanks to Bryce!
-- \[Argyle] Possibly cancelled or delayed. Debra on [Sudo's repo](https://sudocat-dev.github.io/repo) is really good, use it.
+- \[Carmilla] A video wallpaper tweak written in Swift/Orion. Haven't even started but I intend to make this.
 - \[CCCalc] Making a better fix with less bugs, I suppose.
-- \[CustomPass] Coming soon. It lets you choose whatever symbols you want for the passcode. Does not actually change passcode, just the symbols.
+- \[CustomPass] Change the passcode numbers to whatever symbols you want. This might take a while as the other things here are higher priority.
 - \[DarkKeysReborn] Full rewrite, probably won't add anything new but the code was awful.
-- \[ObjC-Nova] Coming soon. A definition of Objective-C/Logos for the Nova text editor.
-- \[Pandora] Coming soon. A video wallpaper tweak written in Swift/Orion.
-- \[Raida] Coming soon. Enable Apple's built-in multitasking features on iPhone.
-- \[Reverie] Actively updated but nothing WIP.
+- \[Pandora] Coming soon? Multitasking tweaks are hard to make, but it will eventually be released in some form.
 - \[Satella] Possibly sandbox the receipt faker so it crashes less.
 - \[Vivy] Add option for Eliza-style colouring.
 
