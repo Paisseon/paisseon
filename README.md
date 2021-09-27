@@ -10,14 +10,13 @@ Just a random iOS hacker who really (凄く) loves Emilia. I also like the When 
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
 ### Future Tweaks and Updates
-- \[All Tweaks] Depictions for non-Sileo package managers. Thanks to Bryce!
 - \[Carmilla 1.0] A video wallpaper tweak written in Swift/Orion. Haven't even started but I intend to make this at some point.
 - \[CustomPass 1.0] Change the passcode numbers to whatever symbols you want. This might take a while as the other things here are higher priority.
-- \[DarkKeysReborn 1.3] Full rewrite, probably won't add anything new but the code was awful.
-- \[Pandora 1.0] Coming soon? Multitasking tweaks are hard to make, but it will eventually be released in some form.
-- \[Reverie 2.3] Fix bugs in the CPU throttling and in the "Hibernate Whilst Charging" toggle.
+- \[DarkKeysReborn 1.3] Full rewrite, probably won't add anything new but the code was awful
+- \[Pandora 1.0] Coming soon? Multitasking tweaks are hard to make, but it will eventually be released in some form
+- \[Reverie 2.3] Fix bug with the "Hibernate Whilst Charging" toggle
 - \[Satella 2.5.1] Group the receipt faker so it only hooks SKPaymentTransaction.transactionReceipt when enabled
-- \[Vivy 1.3] Add option for Eliza-style colouring.
+- \[Vivy 1.3] Add option to choose battery fill colours
 - \[WithholdingCalculator 1.0] Speculative calculator tweak whenever more important things are done.
 
 ### Badges are pretty
