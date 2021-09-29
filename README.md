@@ -12,8 +12,10 @@ Those are the two places where I actually see messages. GitHub issues don't give
 ### Future Tweaks and Updates
 - \[Carmilla 1.0] A video wallpaper tweak written in Swift/Orion. Haven't even started but I intend to make this at some point.
 - \[CustomPass 1.0] Change the passcode numbers to whatever symbols you want. This might take a while as the other things here are higher priority.
+- \[Dodon't Suggest My Music] Add a colour picker
 - \[Pandora 1.0] Coming soon? Multitasking tweaks are hard to make, but it will eventually be released in some form
 - \[Reverie 2.3] Fix bug with the "Hibernate Whilst Charging" toggle
+- \[SkeletonKeys 1.0] A complete rewrite to the iOS keyboard, allowing for hide/show keycaps, change colours, and more. 
 - \[Vivy 1.3] Add option to choose battery fill colours
 - \[WithholdingCalculator 1.0] Speculative calculator tweak whenever more important things are done.
 
