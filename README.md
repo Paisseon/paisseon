@@ -15,7 +15,6 @@ Those are the two places where I actually see messages. GitHub issues don't give
 - \[Dodon't Suggest My Music] Add a colour picker
 - \[Pandora 1.0] Coming soon? Multitasking tweaks are hard to make, but it will eventually be released in some form
 - \[Reverie 2.3] Fix bug with the "Hibernate Whilst Charging" toggle
-- \[SkeletonKey 1.0] A complete re-idea of my old tweak DarkKeysReborn. This one will work better and have more features, such as choosing any colour.
 - \[Vivy 1.3] Add option to choose battery fill colours
 - \[WithholdingCalculator 1.0] Speculative calculator tweak whenever more important things are done.
 
