@@ -11,9 +11,10 @@ Those are the two places where I actually see messages. GitHub issues don't give
 
 ### Future Tweaks and Updates
 - \[Carmilla] A video wallpaper tweak written in Swift/Orion. Haven't even started but I intend to make this at some point.
+- \[CyDown++] Fix a bug with DropBox
 - \[Pandora] Coming soon? Multitasking tweaks are hard to make, but it will eventually be released in some form
 - \[Vivy 1.3] Add option to choose battery fill colours
-- \[WithholdingCalculator 1.0] Speculative calculator tweak whenever more important things are done.
+- \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done.
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
