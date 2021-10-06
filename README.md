@@ -13,7 +13,7 @@ Those are the two places where I actually see messages. GitHub issues don't give
 
 ### Future Tweaks and Updates
 - \[Carmilla] A video wallpaper tweak written in Swift
-- \[CyDown++] Fix a bug in DropBox
+- \[CyDown++ 7.1.5] Fix a bug in DropBox
 - \[Pandora] Multitasking window that may or may not ever get finished
 - \[Vivy 1.3] Add option to choose battery fill colours
 - \[Satella 2.6] Speculative rewrite in Swift if I figure out how to use my preferences
