@@ -9,12 +9,15 @@ Just a random iOS hacker who really (凄く) loves Emilia. I also like the When 
 
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
+*I'm taking a short break from social media. I still see notifications from Discord mentions but please only ping me if something is important.*
+
 ### Future Tweaks and Updates
-- \[Carmilla] A video wallpaper tweak written in Swift/Orion. Haven't even started but I intend to make this at some point.
-- \[CyDown++] Fix a bug with DropBox
-- \[Pandora] Coming soon? Multitasking tweaks are hard to make, but it will eventually be released in some form
+- \[Carmilla] A video wallpaper tweak written in Swift
+- \[CyDown++] Fix a bug in DropBox
+- \[Pandora] Multitasking window that may or may not ever get finished
 - \[Vivy 1.3] Add option to choose battery fill colours
-- \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done.
+- \[Satella 2.6] Speculative rewrite in Swift if I figure out how to use my preferences
+- \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
