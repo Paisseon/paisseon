@@ -9,13 +9,11 @@ Just a random iOS hacker who really (凄く) loves Emilia. I also like the When 
 
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
-*I'm taking a short break from social media. I still see notifications from Discord mentions but please only ping me if something is important.*
-
 ### Future Tweaks and Updates
-- \[Carmilla] A video wallpaper tweak written in Swift
-- \[CyDown++ 7.1.5] Fix a bug in DropBox
+- \[Carmilla] A video wallpaper tweak written in Swift (coming soon!)
 - \[Pandora] Multitasking window that may or may not ever get finished
 - \[Vivy 1.3] Add option to choose battery fill colours
+- \[Vivy 1.4?] Add option to have a second overlay image that is not modfied by battery level
 - \[Satella 2.6] Speculative rewrite in Swift if I figure out how to use my preferences
 - \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done
 
