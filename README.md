@@ -10,11 +10,10 @@ Just a random iOS hacker who really (凄く) loves Emilia. I also like the When 
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
 ### Future Tweaks and Updates
-- \[Carmilla] A video wallpaper tweak written in Swift (coming soon!)
-- \[Pandora] Multitasking window that may or may not ever get finished
+- \[Carmilla] A video wallpaper tweak that I tried and very much failed to write in Swift. Will be written in Objective-C.
+- \[LunarTime] Show the lunar phase next to the time label in status bar
 - \[Vivy 1.3] Add option to choose battery fill colours
 - \[Vivy 1.4?] Add option to have a second overlay image that is not modfied by battery level
-- \[Satella 2.6] Speculative rewrite in Swift if I figure out how to use my preferences
 - \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done
 
 ### Badges are pretty
