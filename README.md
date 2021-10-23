@@ -11,6 +11,7 @@ Those are the two places where I actually see messages. GitHub issues don't give
 
 ### Future Tweaks and Updates
 - \[Carmilla] A video wallpaper tweak that I tried and very much failed to write in Swift. Will be written in Objective-C.
+- \[CyDown++ 7.1.6] Renaming 7.1.5 for those who didn't hear that I release it too early by accident. This will be what 7.1.5 was supposed to be. Includes my own AES256 encryption library too :)
 - \[LunarTime] Show the lunar phase next to the time label in status bar
 - \[Vivy 1.3] Add option to choose battery fill colours
 - \[Vivy 1.4?] Add option to have a second overlay image that is not modfied by battery level
