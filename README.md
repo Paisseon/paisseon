@@ -10,11 +10,11 @@ Just a random iOS hacker who really (凄く) loves Emilia. I also like the When 
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
 ### Future Tweaks and Updates
-- \[Carmilla] A video wallpaper tweak that I tried and very much failed to write in Swift. Will be written in Objective-C.
-- \[CyDown++ 7.1.6] Renaming 7.1.5 for those who didn't hear that I release it too early by accident. This will be what 7.1.5 was supposed to be. Includes my own AES256 encryption library too :)
-- \[LunarTime] Show the lunar phase next to the time label in status bar
-- \[Vivy 1.3] Add option to choose battery fill colours
-- \[Vivy 1.4?] Add option to have a second overlay image that is not modfied by battery level
+- \[Carmilla] Animated wallpaper tweak that I tried and very much failed to write in Swift. Will be written in Objective-C.
+- \[CrackMe] Somewhat realistic tweak crackme for beginners including four different layers with multiple solutions
+- \[CyDown++ 7.1.6] Renaming 7.1.5 for those who didn't hear that I release it too early by accident. This will be what 7.1.5 was supposed to be.
+- \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
+- \[Vivy 1.4] Add option to have a second overlay image that is not modfied by battery level
 - \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done
 
 ### Badges are pretty
