@@ -1,5 +1,7 @@
 ### About Me
-Just a random iOS hacker who really (凄く) loves Emilia. I also like the When They Cry series, DDLC, and black tea. Almost everything you'll see here is related to tweak development for iOS 13-14. Also, here is a red truth for you:
+Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here because of Satella or CyDown++, or if the smoothbrains on r/jb are trying to mock me again for... *reads notes*... copying a copy of a copy of an idea. Intellectual property is fake btw, seize the digital means of production 🏴‍☠️
+
+Note to the aforementioned smoothbrains: I am not anti-developer, I just believe fervently that people deserve equal right to software. Oh, and I'm not a Litten alt either, she is 100x better than I could ever be.
 
 ![Everything I speak in red is the truth](https://lingtalfi.com/services/pngtext?color=cc0000&size=12&text=All%20my%20tweaks%20will%20have%20many%20bugs,%20with%20certainty.)
 
@@ -12,7 +14,7 @@ Those are the two places where I actually see messages. GitHub issues don't give
 ### Future Tweaks and Updates
 - \[Carmilla] Animated wallpaper tweak that I tried and very much failed to write in Swift. Will be written in Objective-C.
 - \[CrackMe] Somewhat realistic tweak crackme for beginners including four different layers with multiple solutions
-- \[CyDown++ 7.1.6] Renaming 7.1.5 for those who didn't hear that I release it too early by accident. This will be what 7.1.5 was supposed to be.
+- \[CyDown++ 8.0] Bugfixes + Sileo support!!! + make it fully a CyDown addon, not replacement
 - \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
 - \[Vivy 1.4] Add option to have a second overlay image that is not modfied by battery level
 - \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done
