@@ -12,9 +12,8 @@ Note to the aforementioned smoothbrains: I am not anti-developer, I just believe
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
 ### Future Tweaks and Updates
-- \[Carmilla] Animated wallpaper tweak that I tried and very much failed to write in Swift. Will be written in Objective-C.
-- \[CrackMe] Somewhat realistic tweak crackme for beginners including four different layers with multiple solutions
-- \[CyDown++ 7.2] Bugfixes + Sileo support!!! + make it fully a CyDown addon, not replacement
+- \[CrackMe] Somewhat realistic tweak for beginners to crack. I might make a simple walkthrough as well
+- \[CyDown++ 7.2 and SiDown] Bugfixes + Sileo support!!! + make it fully a CyDown addon, not replacement
 - \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
 - \[Vivy 1.4] Add option to have a second overlay image that is not modfied by battery level
 - \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done
