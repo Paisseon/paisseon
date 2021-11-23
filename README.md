@@ -13,10 +13,9 @@ Those are the two places where I actually see messages. GitHub issues don't give
 
 ### Future Tweaks and Updates
 - \[CrackMe] Somewhat realistic tweak for beginners to crack. I might make a simple walkthrough as well
-- \[CyDown++ 7.2 and SiDown] Bugfixes + Sileo support!!! + make it fully a CyDown addon, not replacement
+- \[CyDown++ 7.2] This update will mix CyDown++'s improvements with my own replacement for it that works on Sileo and has a prettier UI
 - \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
 - \[Vivy 1.4] Add option to have a second overlay image that is not modfied by battery level
-- \[WithholdingCalculator] Speculative calculator tweak whenever more important things are done
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
