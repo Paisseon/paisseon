@@ -12,8 +12,8 @@ Note to the aforementioned smoothbrains: I am not anti-developer, I just believe
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
 ### Future Tweaks and Updates
-- \[CrackMe] Somewhat realistic tweak for beginners to crack. I might make a simple walkthrough as well
-- \[CyDown++ 7.2] This update will mix CyDown++'s improvements with my own replacement for it that works on Sileo and has a prettier UI
+- \[Erika 0.x-beta] Lots of features, probably
+- \[Peep Reborn] Full rewrite + add preferences
 - \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
 - \[Vivy 1.4] Add option to have a second overlay image that is not modfied by battery level
 
