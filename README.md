@@ -7,7 +7,7 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
 - EMT#0001 on Discord ([join CyPwn!](https://discord.gg/cZ2gBRZvwW))
 
-Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
+Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. **I'm doing finals through 17 December, so please be patient with long delays**
 
 ### Future Tweaks and Updates
 - \[Erika 0.x-beta] Lots of features, probably? + Saily support
