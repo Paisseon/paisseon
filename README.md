@@ -10,10 +10,11 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. Please understand that due to work, college, and possible timezone differences I may respond at weird times or after a long delay (usually less than 48 hours).
 
 ### Future Tweaks and Updates
-- \[Erika 0.x-beta] Lots of features, probably
-- \[Peep Reborn] Full rewrite + add preferences
+- \[Erika 0.x-beta] Lots of features, probably? + Saily support
+- \[Peep Reborn 1.1] Full rewrite + add preferences. *Might* do another rewrite in Swift later lol
+- \[Safe MainRepo 1.1] Add a much better method of blocking MR malware
 - \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
-- \[Shamak] Small jailbreak detection bypass written in Orion. *This won't be as good as liberty/flyjbx/hestia, I'm just making it for fun*
+- \[Shamak] Small jailbreak detection bypass written partially in Orion. *This won't be as good as liberty/flyjbx/hestia, I'm just making it for fun*
 - \[Vivy 1.4] Add option to have a second overlay image that is not modfied by battery level
 
 ### Badges are pretty
