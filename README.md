@@ -12,10 +12,12 @@ Those are the two places where I actually see messages. GitHub issues don't give
 ### Future Tweaks and Updates
 - \[Erika 0.x-beta] Lots of features, probably? + Saily support
 - \[Peep Reborn 1.1] Full rewrite + add preferences. *Might* do another rewrite in Swift later lol
+- \[Reverie 2.5] Significantly faster wakeup + improved efficiency for the hibernation view
 - \[Safe MainRepo 1.1] Add a much better method of blocking MR malware
 - \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
 - \[Shamak] Small jailbreak detection bypass written partially in Orion. *This won't be as good as liberty/flyjbx/hestia, I'm just making it for fun*
-- \[Vivy 1.4] Add option to have a second overlay image that is not modfied by battery level
+- \[Vivy 1.4] Performance improvements
+- \[Vivy 1.5] Add option to have a second overlay image that is not modfied by battery level
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
