@@ -10,10 +10,8 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. **I'm doing finals through 17 December, so please be patient with long delays**
 
 ### Future Tweaks and Updates
-- \[Erika 0.x-beta] Lots of features, probably? + Saily support
-- \[Satella 2.6] Add option to use SatellaObserver (theoretically higher success rate + fix double purchase bug)
-- \[Shamak] Small jailbreak detection bypass written partially in Orion
-- \[Vivy 1.5] Add option to have a second overlay image that is not modfied by battery level
+- \[Erika 0.3-beta] Full rewrite in Swift + SwiftUI-- *possible* Saily support in 0.4-beta?
+- \[Vivy 1.3] Considering a Swift rewrite. Maybe.
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
