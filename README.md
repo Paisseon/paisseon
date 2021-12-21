@@ -10,8 +10,8 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. **I'm doing finals through 17 December, so please be patient with long delays**
 
 ### Future Tweaks and Updates
-- \[Erika 0.3-beta] Full rewrite in Swift + SwiftUI-- *possible* Saily support in 0.4-beta?
-- \[Vivy 1.3] Considering a Swift rewrite. Maybe.
+- \[Erika 1.0] Unknown features. Very mysterious. I'll open source this version though!
+- \[Satella 2.8] Maybe add a more advanced local receipt faker
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
