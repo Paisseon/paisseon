@@ -10,8 +10,9 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. **I'm doing finals through 17 December, so please be patient with long delays**
 
 ### Future Tweaks and Updates
-- \[Erika 1.0] Unknown features. Very mysterious. I'll open source this version though!
-- \[Satella 2.8] Maybe add a more advanced local receipt faker
+- \[Chocola 1.1] Performance improvements maybe? Kinda needs it, but I wanted that Christmas day release :p
+- \[Erika 1.0] It's literally 0.5b renamed, but it's open source now!
+- \[Satella Legacy 2.8] Legacy version is exactly the same except it doesn't crash iOS 12 preferences
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
