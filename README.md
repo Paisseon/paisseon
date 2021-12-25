@@ -7,7 +7,7 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
 - EMT#0001 on Discord ([join CyPwn!](https://discord.gg/cZ2gBRZvwW))
 
-Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually. **I'm doing finals through 17 December, so please be patient with long delays**
+Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually.
 
 ### Future Tweaks and Updates
 - \[Chocola 1.1] Performance improvements maybe? Kinda needs it, but I wanted that Christmas day release :p
