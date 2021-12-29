@@ -7,7 +7,7 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
 - EMT#0001 on Discord ([join CyPwn!](https://discord.gg/cZ2gBRZvwW))
 
-Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually.
+Those are the two places where I actually see messages. ~~GitHub issues don't give me notifications so I don't see/respond usually.~~ Ok I figured out that the blue dot means an issue 😅 My apologies to people from months ago who have no responses on their issues
 
 ### Future Tweaks and Updates
 - \[Chocola 1.1] Possibly a full rewrite, I kinda don't like how it is now.
