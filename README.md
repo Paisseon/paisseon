@@ -10,9 +10,8 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 Those are the two places where I actually see messages. GitHub issues don't give me notifications so I don't see/respond usually.
 
 ### Future Tweaks and Updates
-- \[Chocola 1.1] Performance improvements maybe? Kinda needs it, but I wanted that Christmas day release :p
-- \[Erika 1.0] It's literally 0.5b renamed, but it's open source now!
-- \[Satella Legacy 2.8] Legacy version is exactly the same except it doesn't crash iOS 12 preferences
+- \[Chocola 1.1] Possibly a full rewrite, I kinda don't like how it is now.
+- \[Erika 1.1] Crash fixes
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
