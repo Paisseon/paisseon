@@ -11,7 +11,6 @@ Those are the two places where I actually see messages. ~~GitHub issues don't gi
 
 ### Future Tweaks and Updates
 - \[Chocola 1.1] Possibly a full rewrite, I kinda don't like how it is now.
-- \[Erika 1.1] Crash fixes
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
