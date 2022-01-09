@@ -9,8 +9,12 @@ Amateur iOS tweak developer who reaaaallllyyy loves Emilia. You're probably here
 
 Those are the two places where I actually see messages. ~~GitHub issues don't give me notifications so I don't see/respond usually.~~ Ok I figured out that the blue dot means an issue 😅 My apologies to people from months ago who have no responses on their issues
 
-### Future Tweaks and Updates
-- \[Chocola 1.1] Possibly a full rewrite, I kinda don't like how it is now.
+### Actively Updated
+- Chocola (being lazy and not getting to it, but this will be rewritten eventually!)
+- Erika
+- Reverie
+- Satella
+- Seele (Swift rewrite at some point)
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
