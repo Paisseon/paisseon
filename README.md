@@ -12,7 +12,7 @@ Those are the two places where I actually see messages. ~~GitHub issues don't gi
 ### Actively Updated
 - Chocola (being lazy and not getting to it, but this will be rewritten eventually!)
 - Erika
-- Reverie
+- PaiBloxx
 - Satella
 - Seele (Swift rewrite at some point)
 
