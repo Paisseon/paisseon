@@ -11,8 +11,7 @@ Those are the two places where I actually see messages. ~~GitHub issues don't gi
 
 ### Actively Updated
 - Erika
-- PaiBloxx
-- Satella
+- Satella 2
 
 ### Badges are pretty
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
