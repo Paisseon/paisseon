@@ -14,7 +14,7 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 
 ### Badges are pretty 🌸
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
-![emilia-tan maji tenshi](https://img.shields.io/badge/comfort%20character-emilia-%234a00cc)
+![emilia-tan maji tenshi](https://img.shields.io/badge/i%20love-emilia-%234a00cc)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=paisseon&show_icons=true&count_private=true&theme=dark&hide_title=true)
 
