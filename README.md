@@ -11,6 +11,7 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Erika
 - Chocola
 - Satella 2
+- Satella Jailed
 
 ### Badges are pretty 🌸
 ![she/her pronouns pls](https://img.shields.io/badge/pronouns-she%2Fher-e91f63)
