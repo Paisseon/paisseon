@@ -13,3 +13,11 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Reverie
 - Satella 2
 - Satella Jailed
+
+### Current Projects 👩‍💻
+- Finish KOTOR Mod Manager
+- Finish writeup for FuckDRM (a crackme designed to replicate several common types of tweak DRM)
+- Custom tweak for iOS12Guy 😉
+- Rewrite Satella Jailed in Swift
+- Add RevenueCat support to Satella 2 and Jailed
+- Add a better progress indicator to Erika
