@@ -16,7 +16,9 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 
 ### Current Projects 👩‍💻
 - Finish KOTOR Mod Manager
-- Make AnthoCrack actually work 
+- Make AnthoCrack actually work
+- Update Apollo Crack
+- Maybe do something with DiskProbe?
 - Finish writeup for FuckDRM (a crackme designed to replicate several common types of tweak DRM)
 - Custom tweak for iOS12Guy 😉
 - Rewrite Satella Jailed in Swift
