@@ -8,6 +8,7 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - EMT#0001 on Discord ([join CyPwn, the best jailbreak server!](https://discord.gg/cZ2gBRZvwW))
 
 ### Actively Updated 🆕
+- Apollo Ultra Crack
 - Erika
 - Chocola
 - Reverie
