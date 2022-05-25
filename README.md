@@ -17,5 +17,4 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 
 ### To-Do List 🗒
 - Finish writeup for FuckDRM (a crackme designed to replicate several common types of tweak DRM)
-- Custom music player tweak for iOS12Guy
 - Rewrite Satella Jailed in Swift (this is like 90% done anyway)
