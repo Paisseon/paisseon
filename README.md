@@ -16,6 +16,4 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Satella Jailed
 
 ### To-Do List 🗒
-- Finish writeup for FuckDRM (a crackme designed to replicate several common types of tweak DRM)
-- Rewrite Satella Jailed in Swift (this is like 90% done anyway)
 - Make Apollo Crack work on jailed devices, maybe?
