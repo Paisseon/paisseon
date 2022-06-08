@@ -8,7 +8,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - EMT#0001 on Discord ([join CyPwn, the best jailbreak server!](https://discord.gg/cZ2gBRZvwW))
 
 ### Actively Updated 🆕
-- Apollo Ultra Crack
 - Erika
 - Chocola
 - Reverie
@@ -16,4 +15,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Satella Jailed
 
 ### To-Do List 🗒
-- Make Apollo Crack work on jailed devices, maybe?
+- ~~Make Apollo Crack work on jailed devices, maybe?~~ Fuck that, jailed devices are headache
+- Try to improve Satella Jailed despite the above edit
+- Possible Vivy rewrite in Swift, idk
