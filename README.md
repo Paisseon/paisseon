@@ -15,6 +15,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Satella Jailed
 
 ### To-Do List 🗒
-- ~~Make Apollo Crack work on jailed devices, maybe?~~ Fuck that, jailed devices are headache
-- Try to improve Satella Jailed despite the above edit
+- Make Satella Jailed crash less
+- Add option to fix Chocola preventing passive sleep while locked
 - Possible Vivy rewrite in Swift, idk
