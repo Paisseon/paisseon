@@ -17,4 +17,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 ### To-Do List 🗒
 - Make Satella Jailed crash less
 - Add option to fix Chocola preventing passive sleep while locked
+- Crack o2 maybe
+- Crack Hyperixa maybe
 - Possible Vivy rewrite in Swift, idk
