@@ -15,10 +15,7 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Satella Jailed
 
 ### To-Do List 🗒
-- Make Satella 2 crash less?
-- Make Satella Jailed crash less
 - Add option to fix Chocola preventing passive sleep while locked
 - CC module to disable cellular in specific apps
-- ~~Crack o2 maybe~~ If someone can translate into either English or Dansk. I don't speak Chinese T^T
 - Crack Hyperixa maybe
 - Possible Vivy rewrite in Swift, idk
