@@ -15,7 +15,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Satella Jailed
 
 ### To-Do List 🗒
-- Add option to fix Chocola preventing passive sleep while locked
 - CC module to disable cellular in specific apps
 - Crack Hyperixa maybe
 - Possible Vivy rewrite in Swift, idk
