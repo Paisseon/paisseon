@@ -15,6 +15,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Satella Jailed
 
 ### To-Do List 🗒
-- CC module to disable cellular in specific apps
+- ~~CC module to disable cellular in specific apps~~ probably cancelled, summer classes keep me v busy
 - Crack Hyperixa maybe
 - Possible Vivy rewrite in Swift, idk
