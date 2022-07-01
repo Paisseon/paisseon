@@ -13,8 +13,11 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Reverie
 - Satella 2
 - Satella Jailed
+- Vivy
 
 ### To-Do List 🗒
-- ~~CC module to disable cellular in specific apps~~ probably cancelled, summer classes keep me v busy
-- Crack Hyperixa maybe
-- Possible Vivy rewrite in Swift, idk
+- Split RevenueCat crack to a different tweak from Satella
+- Satella 2 and Satella Jailed update (improved receipt generation for iOS 14/15, remove RevenueCat, remove Apollo bypass, better comments)
+- Vivy full rewrite in Swift/Orion. Will include many improvements
+- Possible Hyperixa crack? Keygen done, currently causing a crash and I'm waiting on smarter ppl to figure it out 😅
+- Reverie and Satella Jailed IPC improvements
