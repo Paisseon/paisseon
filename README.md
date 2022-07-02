@@ -16,8 +16,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Vivy
 
 ### To-Do List 🗒
-- Split RevenueCat crack to a different tweak from Satella
-- Satella 2 and Satella Jailed update (improved receipt generation for iOS 14/15, remove RevenueCat, remove Apollo bypass, better comments)
+- Fix sandbox (self-signed) IAP for Satella Jailed
 - Vivy full rewrite in Swift/Orion. Will include many improvements
-- Possible Hyperixa crack? Keygen done, currently causing a crash and I'm waiting on smarter ppl to figure it out 😅
-- Reverie and Satella Jailed IPC improvements
+- Possible Hyperixa crack?
