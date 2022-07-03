@@ -16,6 +16,6 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Vivy
 
 ### To-Do List 🗒
-- Fix sandbox (self-signed) IAP for Satella Jailed
-- Vivy full rewrite in Swift/Orion. Will include many improvements
+- Vivy 2 -- Full rewrite of Vivy with animations, less battery drain, and code-based icons instead of image-based
+- Satella 2 + Satella Jailed attempt to fix for apps that are not production-signed
 - Possible Hyperixa crack?
