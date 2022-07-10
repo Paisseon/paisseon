@@ -19,4 +19,4 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Vivy 2 -- Full rewrite of Vivy with animations, less battery drain, and code-based icons instead of image-based
 - Satella 2 + Satella Jailed attempt to fix for apps that are not production-signed and rewrite SatellaObserver
 - Supercharge-To-Theos with Randy-420
-- Possible Hyperixa crack?
+- Fix Chocola playing inside apps if another "start playing" cause activates it
