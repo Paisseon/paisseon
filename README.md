@@ -21,3 +21,4 @@ Amateur yet vainglorious iOS developer who reeeally loves Emilia. You're probabl
 - Satella 2 + Satella Jailed attempt to fix for apps that are not production-signed and rewrite SatellaObserver
 - Supercharge-To-Theos with Randy-420
 - Fix Chocola playing inside apps if another "start playing" cause activates it
+- Maybe crack Plex? idk
