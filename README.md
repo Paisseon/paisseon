@@ -16,8 +16,7 @@ An iOS hacker who is too young, too simple, and sometimes naïve. Very gay for E
 - Vivy
 
 ### To-Do List 🗒
-- Vivy 2 -- Full rewrite of Vivy with animations, less battery drain, and code-based icons instead of image-based
-- Add preferences to PaiBloxx
+- Add preferences to PaiBloxx (close to finished)
 - Satella 2 + Satella Jailed attempt to fix for apps that are not production-signed and rewrite SatellaObserver
 - Supercharge-To-Theos with Randy-420
 - Fix Chocola playing inside apps if another "start playing" cause activates it
