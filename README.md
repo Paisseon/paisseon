@@ -10,6 +10,9 @@ An iOS hacker who is too young, too simple, and sometimes naïve. Very gay for E
 ### Actively Updated 🆕
 - Erika
 - Chocola
+- Cowsay
+- Permasigner-iOS
+- Pseudo
 - Reverie
 - Satella 2
 - Satella Jailed
