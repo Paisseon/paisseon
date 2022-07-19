@@ -22,6 +22,7 @@ An iOS hacker who is too young, too simple, and sometimes naïve. Very gay for E
 - 「Permasigner-iOS」				Attempt to fix unc0ver 7+ not signing for people with non-magical iPhones
 - 「Satella」								Attempt to fix apps that are not production-signed
 - 「Supercharge-To-Theos」	New tweak, collab w/ Randy420
+- 「Pseudo」                Attempt to allow arguments à la sudo, instead of only opening a root shell
 - 「Chocola」								Fix playing inside apps if another "start playing" cause activates it
 - 「Reverie」               Fix Reverie sleeping automatically when battery *rises* to sleep level while charging
 - 「Reverie」								Add option to fix FaceID being temporarily disabled
