@@ -10,16 +10,12 @@ An iOS hacker who is too young, too simple, and sometimes naïve. Very gay for E
 ### Actively Updated 🆕
 - Erika
 - Chocola
-- Cowsay
-- Permasigner-iOS
-- Pseudo
 - Reverie
 - Satella 2
 - Satella Jailed
 - Vivy
 
 ### To-Do List 🗒
-- 「Permasigner-iOS」				Attempt to fix unc0ver 7+ not signing for people with non-magical iPhones
 - 「Satella」								Attempt to fix apps that are not production-signed
 - 「Supercharge-To-Theos」	New tweak, collab w/ Randy420
 - 「Chocola」								Fix playing inside apps if another "start playing" cause activates it
