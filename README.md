@@ -18,8 +18,4 @@ I'm often slow to respond because GitHub doesn't send me notifications, fastest 
 ### To-Do List 🗒
 - 「Satella」								Attempt to fix apps that are not production-signed
 - 「Supercharge-To-Theos」	New tweak, collab w/ Randy420
-- 「Chocola」								Fix playing inside apps if another "start playing" cause activates it
-- 「Reverie」               Fix Reverie sleeping automatically when battery *rises* to sleep level while charging
-- 「Reverie」								Add option to fix FaceID being temporarily disabled
-- 「Reverie」               Fix Reverie not activating when device is locked
 - 「Plex Crack」						New tweak maybe? Idk. Low priority
