@@ -1,7 +1,7 @@
 ### About Me ✨
 An iOS hacker who is too young, too simple, and sometimes naïve. Very gay for Emilia 😳
 
-"Direct action is not always the best way. It is a far greater victory to make another see through your eyes than to close theirs forever." - Kreia
+I'm often slow to respond because GitHub doesn't send me notifications, fastest replies will be through Reddit and Discord
 
 ### Contact Me ✉️
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
