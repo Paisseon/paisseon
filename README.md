@@ -16,8 +16,6 @@ I'm often slow to respond because GitHub doesn't send me notifications, fastest 
 - Vivy
 
 ### To-Do List 🗒
-- 「Reverie」               Fix all the bugs from 2.7.3
-- 「Erika」                 Performance improvements + a bug fix for Saily
-- 「Satella」								Attempt to fix apps that are not production-signed
+- 「Satella Jailed」				Attempt to fix apps that are not production-signed
 - 「Supercharge-To-Theos」	New tweak, collab w/ Randy420
 - 「Plex Crack」						New tweak maybe? Idk. Low priority
