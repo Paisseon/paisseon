@@ -16,6 +16,7 @@ I'm often slow to respond because GitHub doesn't send me notifications, fastest 
 - Vivy
 
 ### To-Do List 🗒
+- 「Reverie」               Try to fix the shit I broke in a bugfix update, again 😭
 - 「Satella Jailed」				Attempt to fix apps that are not production-signed
 - 「Supercharge-To-Theos」	New tweak, collab w/ Randy420
 - 「Plex Crack」						New tweak maybe? Idk. Low priority
