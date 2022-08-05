@@ -3,7 +3,7 @@ An iOS hacker who is too young, too simple, and sometimes naïve. Very gay for E
 
 I'm often slow to respond because GitHub doesn't send me notifications, fastest replies will be through Reddit DMs (chat doesn't send notifications also)
 
-### My Discord and the CyPwn Discord server have been falsely banned. I have sent an appeal, and hopefully Discord's admins will see reason and restore them. Until now, use [the Telegram server](https://t.me/cypwngroup)
+### My Discord and the CyPwn Discord server have been falsely banned. I have sent an appeal, and hopefully Discord's admins will see reason and restore them. For now, use [the Telegram server](https://t.me/cypwngroup)
 
 ### Contact Me ✉️
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
