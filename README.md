@@ -12,8 +12,7 @@ I'm often slow to respond because GitHub doesn't send me notifications, fastest 
 - Erika
 - Chocola
 - Reverie
-- Satella 2
-- Satella Jailed
+- Satella / Satella Jailed
 - Vivy
 
 ### To-Do List 🗒
