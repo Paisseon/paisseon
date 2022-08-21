@@ -16,5 +16,9 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
+- 「Safe Main Repo」  Rewrite a broken tweak
+- 「Peep Reborn」  Rewrite a broken tweak
+- 「Dark Keys Reborn」  Rewrite a broken tweak
+- 「My Status Bar is Very Cute」  Potential new tweak
 - 「Satella Jailed」				Attempt to fix apps that are not production-signed
 - 「Supercharge-To-Theos」	New tweak, collab w/ Randy420
