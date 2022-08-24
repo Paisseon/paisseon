@@ -16,9 +16,6 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Safe Main Repo」  Rewrite a broken tweak
-- 「Peep Reborn」  Rewrite a broken tweak
-- 「Dark Keys Reborn」  Rewrite a broken tweak
-- 「My Status Bar is Very Cute」  Potential new tweak
-- 「Satella Jailed」				Attempt to fix apps that are not production-signed
-- 「Supercharge-To-Theos」	New tweak, collab w/ Randy420
+- 「Safe MainRepo」Rewrite a broken tweak
+- 「My Status Bar Looks Very Cute, name subject to change」    SwiftUI status bar that I've barely started, may take a long time
+- 「Vivy」         Maybe fix some bugs, maybe just replace with MSBLVC
