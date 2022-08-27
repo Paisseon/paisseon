@@ -16,6 +16,6 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Safe MainRepo」Rewrite a broken tweak
+- 「Satella Jailed」Replace gesture for prefs with an iOSGods-style floating button
 - 「My Status Bar Looks Very Cute, name subject to change」    SwiftUI status bar that I've barely started, may take a long time
 - 「Vivy」         Maybe fix some bugs, maybe just replace with MSBLVC
