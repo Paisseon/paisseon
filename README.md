@@ -16,6 +16,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Satella Jailed」Replace gesture for prefs with an iOSGods-style floating button
-- 「My Status Bar Looks Very Cute, name subject to change」    SwiftUI status bar that I've barely started, may take a long time
-- 「Vivy」         Maybe fix some bugs, maybe just replace with MSBLVC
+- 「Top Secret Upcoming Tweak」Maybe find a workaround to the greatest limiting factor
+- 「Satella Jailed」           Fix the floating button not working for some people 😮‍💨
+- 「Violyn」                   Fix the "doesn't exist" error that pwn has
+- 「Untitled Status Bar Tweak」SwiftUI status bar that I've barely started, may take a long time
+- 「Vivy」                     Maybe fix some bugs, maybe just replace with MSBLVC
