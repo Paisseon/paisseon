@@ -10,14 +10,16 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 
 ### Actively Updated 🆕
 - Erika
+- Butterfly (upcoming, name subject to change)
 - Chocola
+- Long Time Sunshine (name subject to change)
 - Reverie
 - Satella / Satella Jailed
+- Violyn
 - Vivy
 
 ### To-Do List 🗒
-- 「Top Secret Upcoming Tweak」Maybe find a workaround to the greatest limiting factor
-- 「Satella Jailed」           Fix the floating button not working for some people 😮‍💨
-- 「Violyn」                   Fix the "doesn't exist" error that pwn has
-- 「Untitled Status Bar Tweak」SwiftUI status bar that I've barely started, may take a long time
-- 「Vivy」                     Maybe fix some bugs, maybe just replace with MSBLVC
+- 「Long Time Sunshine」Maybe find a workaround to the greatest limiting factor
+- 「Satella Jailed」    Fix the floating button not working for some people 😮‍💨
+- 「Butterfly」         SwiftUI status bar that I've barely started, may take a long time
+- 「Vivy」              Maybe fix some bugs, maybe just replace with MSBLVC
