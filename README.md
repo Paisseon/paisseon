@@ -6,7 +6,6 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
 - [EmiliaMajiTenshi#4364](https://discord.gg/VM2ZVWqxsj) on Discord
-- [paisseon](https://matrix.to/#/#cypwnserver:matrix.org) on Matrix
 
 ### Actively Updated 🆕
 - Erika
