@@ -9,12 +9,10 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 
 ### Actively Updated 🆕
 - Erika
-- Chocola
 - Long Time Sunshine (upcoming, name subject to change)
-- Reverie
 - Satella / Satella Jailed
+- Traya (upcoming)
 - Violyn
-- Vivy
 
 ### To-Do List 🗒
 - 「Long Time Sunshine」Maybe find a workaround to the greatest limiting factor
