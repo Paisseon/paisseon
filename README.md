@@ -18,6 +18,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 
 ### To-Do List 🗒
 - 「Long Time Sunshine」Maybe find a workaround to the greatest limiting factor
+- 「Violyn」            Update the macOS version to match v1.2 of it's iOS equivalent
 - 「Traya」             Successor to KOTOR 1 Mod Manager, will include K2 support
 - 「Satella Jailed」    Someone find an app that *isn't* working on the latest version that is *also* iOS 14 compatible pls
 - 「Reverie」           Try to add requested features, i.e., muting alarms and throttling CPU
