@@ -8,6 +8,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - [EmiliaMajiTenshi#4364](https://discord.gg/VM2ZVWqxsj) on Discord
 
 ### Actively Updated 🆕
+- Butterfly (upcoming)
 - Erika
 - Long Time Sunshine (upcoming, name subject to change)
 - Satella / Satella Jailed
