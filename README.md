@@ -10,15 +10,13 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 ### Actively Updated 🆕
 - Butterfly (upcoming?)
 - Erika
-- Long Time Sunshine (upcoming, this is just codename it will change, probably my last crack)
-- Phonewave (name subject to change) (upcoming?, "name subject to change" is just part of the name)
+- Long Time Sunshine (it's worth the wait. trust me, this will be big)
 - Satella / Satella Jailed
-- Traya (upcoming)
+- StarForge (upcoming)
 - Violyn
 
 ### To-Do List 🗒
-- 「Traya」     Successor to KOTOR 1 Mod Manager, will include K2 support
+- 「StarForge」 Successor to KOTOR 1 Mod Manager, will include K2 support
 - 「Satella」   Make Satella work with TrollStore (no Jailed needed). Idk if it's even possible tho
 - 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
 - 「Butterfly」 SwiftUI status bar. May or may not bother finishing (at least not soon)
-- 「Phonewave」 An idea in my head that may or may not ever be realised
