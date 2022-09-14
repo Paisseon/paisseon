@@ -8,7 +8,6 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - [EmiliaMajiTenshi#4364](https://discord.gg/VM2ZVWqxsj) on Discord
 
 ### Actively Updated 🆕
-- Butterfly (upcoming?)
 - Erika
 - Long Time Sunshine (it's worth the wait. trust me, this will be big)
 - Satella / Satella Jailed
@@ -16,7 +15,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
+- 「Violyn」    Merge iOS and macOS codebases, clean things up for public release
 - 「StarForge」 Successor to KOTOR 1 Mod Manager, will include K2 support
-- 「Satella」   Make Satella work with TrollStore (no Jailed needed). Idk if it's even possible tho
 - 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
 - 「Butterfly」 SwiftUI status bar. May or may not bother finishing (at least not soon)
