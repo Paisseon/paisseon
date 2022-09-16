@@ -15,7 +15,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
-- 「Violyn」    Merge iOS and macOS codebases, clean things up for public release
 - 「StarForge」 Successor to KOTOR 1 Mod Manager, will include K2 support
+- 「Violyn」    Optimise the UI for respective platforms
+- 「Erika」     Fix bugs in Sileo, maybe add ErikaWindow to Saily
 - 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
 - 「Butterfly」 SwiftUI status bar. May or may not bother finishing (at least not soon)
