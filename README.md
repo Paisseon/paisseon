@@ -16,7 +16,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
-- 「StarForge」      Successor to KOTOR 1 Mod Manager, will include K2 support
+- 「StarForge」      Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
 - 「Satella Jailed」 Register for app start notifications instead of hardcoded time to add SatellaWindow
 - 「PaiBloxx」       Look into porting this to TrollStore
 - 「Violyn」         Optimise the UI for respective platforms
