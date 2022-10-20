@@ -14,9 +14,10 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
-- 「PowerCoupling」  Fix function hooking on unc0ver, once that's done it will release :)
+- 「PowerCoupling」  Fix function hooking on arm64e, once that's done it will release :)
 - 「Satella Series」 Rewrite using PowerCoupling so Orion needn't be injected
-- 「Apollo Crack」   Rewrite using PowerCoupling because I wanna
+- 「Apollo Crack」   Rewrite using PowerCoupling because I wanna. This is waiting on just function hooking
+- 「Iridium」        Attempt to port Iridium to TrollStore... jailed decryption 😳
 - 「StarForge」      Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
 - 「Violyn」         Optimise the UI for its respective platforms
 - 「Reverie」        Try to add requested features, i.e., muting alarms and throttling CPU
