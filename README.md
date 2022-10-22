@@ -16,7 +16,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 ### To-Do List 🗒
 - 「PowerCoupling」  Fix function hooking on arm64e, once that's done it will release :)
 - 「Satella Series」 Rewrite using PowerCoupling so Orion needn't be injected
-- 「Apollo Crack」   Rewrite using PowerCoupling because I wanna. This is waiting on just function hooking
+- 「Apollo Crack」   Rewrite using PowerCoupling because I wanna. This is waiting on just function hooking. Hopefully also fix jailed???
 - 「Ishtar」         Attempt to make Ishtar work jailed? Idk if it's possible.
 - 「Iridium」        Attempt to port Iridium to TrollStore... jailed decryption 😳
 - 「StarForge」      Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
