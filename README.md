@@ -20,6 +20,6 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - 「Ishtar」         Attempt to make Ishtar work jailed? Idk if it's possible.
 - 「Iridium」        Attempt to port Iridium to TrollStore... jailed decryption 😳
 - 「StarForge」      Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
-- 「Violyn」         Optimise the UI for its respective platforms
+- 「Violyn」         Optimise the UI for its respective platforms and also fix some bad code
 - 「Reverie」        Try to add requested features, i.e., muting alarms and throttling CPU
 - 「Butterfly」      SwiftUI status bar. May or may not bother finishing (at least not soon)
