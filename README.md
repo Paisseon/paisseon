@@ -14,11 +14,9 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
-- 「PowerCoupling」  Fix function hooking on arm64e, once that's done it will release :)
-- 「Satella Series」 Rewrite using PowerCoupling so Orion needn't be injected
-- 「Apollo Crack」   Rewrite using PowerCoupling because I wanna. This is waiting on just function hooking. Hopefully also fix jailed???
-- 「Ishtar」         Attempt to make Ishtar work jailed? Idk if it's possible.
-- 「Iridium」        Attempt to port Iridium to TrollStore... jailed decryption 😳
+- 「Satella Series」 Rewrite using Jinx so Orion needn't be injected
+- 「Satella Jailed」 Attempt to make a TrollStore-based decrypter with option to inject SatellaJailed
+- 「Ishtar」         Attempt to make Ishtar work jailed? Idk if it's possible
 - 「StarForge」      Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
 - 「Violyn」         Optimise the UI for its respective platforms and also fix some bad code
 - 「Reverie」        Try to add requested features, i.e., muting alarms and throttling CPU
