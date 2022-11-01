@@ -14,8 +14,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
-- 「Satella Series」 Rewrite using Jinx so Orion needn't be injected
-- 「Satella Jailed」 Attempt to make a TrollStore-based decrypter with option to inject SatellaJailed
+- 「Satella Jailed」 Fix SatellaViewController to properly pass through touches to lower views
+- 「SatellaDecrypt」 Attempt to make a TrollStore-based app decrypter
 - 「Ishtar」         Attempt to make Ishtar work jailed? Idk if it's possible
 - 「StarForge」      Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
 - 「Violyn」         Optimise the UI for its respective platforms and also fix some bad code
