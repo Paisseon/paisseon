@@ -14,9 +14,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
-- 「SatellaDecrypt」 Attempt to make a TrollStore-based app decrypter
-- 「Ishtar」         Attempt to make Ishtar work jailed? Idk if it's possible
-- 「StarForge」      Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
-- 「Violyn」         Optimise the UI for its respective platforms and also fix some bad code
-- 「Reverie」        Try to add requested features, i.e., muting alarms and throttling CPU
-- 「Butterfly」      SwiftUI status bar. May or may not bother finishing (at least not soon)
+- 「Ishtar」    Attempt to make Ishtar work jailed? Idk if it's possible
+- 「Jinx」      Add DragonBuild support and ivar hooking
+- 「StarForge」 Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
+- 「Violyn」    Rewrite with better UI and async/await
+- 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
