@@ -1,5 +1,7 @@
 ### About Me ✨
-An iOS hacker who is too young, too simple, and sometimes naïve
+> She never could learn or understand anything before she was taught; and sometimes not even then, for she was often inattentive, and occasionally stupid. - Jane Austen, *Northanger Abbey*
+
+Hello! I'm an iOS tweak developer with an interest in software liberation (Ahoy! 🏴‍☠️) and getting lost in stories (I usually find my way out). I mostly code in Swift, but can do ObjC when needed. School and work keep me pretty busy, so updates may be sparse outside of summer months!
 
 ### Contact Me ✉️
 Use one of the below channels for fastest replies-- GitHub doesn't send notifications, so it may be several days before I see anything
@@ -10,7 +12,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 ### Actively Updated 🆕
 - Erika
 - Ishtar
-- Satella / Satella Jailed
+- Satella
+- Satella Jailed
 - Violyn
 
 ### To-Do List 🗒
