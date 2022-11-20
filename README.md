@@ -17,6 +17,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Violyn
 
 ### To-Do List 🗒
+- 「Chocola」   Attempt to fix for iOS 15
 - 「StarForge」 Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
 - 「Ishtar」    Attempt to make Ishtar work on .ipa files? Idk if it's possible
 - 「Jinx」      Add DragonBuild support
