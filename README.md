@@ -19,7 +19,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 ### To-Do List 🗒
 - 「Chocola」   Attempt to fix for iOS 15
 - 「StarForge」 Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
-- 「Ishtar」    Attempt to make Ishtar work on .ipa files? Idk if it's possible
 - 「Violyn」    Rewrite with better UI and async/await
 - 「Erika」     Rewrite with async/await
+- 「Satella」   Add 3DTouch enable/disable per app
 - 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
