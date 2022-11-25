@@ -18,8 +18,10 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 
 ### To-Do List 🗒
 - 「Chocola」   Attempt to fix for iOS 15
-- 「StarForge」 Successor to KOTOR 1 Mod Manager, will (eventually) include K2 support
+- 「Erika」     Attempt to fix for iOS 15
 - 「Violyn」    Rewrite with better UI and async/await
 - 「Erika」     Rewrite with async/await
+- 「StarForge」 Add K2 support
 - 「Satella」   Add 3DTouch enable/disable per app
+- 「Vivy」      Maybe switch to SwiftUI? Also fix the prefs sometimes not applying
 - 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
