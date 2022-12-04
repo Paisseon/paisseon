@@ -15,6 +15,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Satella
 - Satella Jailed
 - Violyn
+- Vivy
 
 ### To-Do List 🗒
 - 「Chocola」   Attempt to fix for iOS 15
