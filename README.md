@@ -18,12 +18,12 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Chocola」   Add iOS 15+ compatibility + replace Orion with Jinx
-- 「Erika」     Add iOS 15+ compatibility + replace Orion with Jinx
-- 「Violyn」    Rewrite with better UI and async/await
-- 「Erika」     Rewrite with async/await
+- 「Satella」   Add iOS 16 compatibility
+- 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
+- 「Erika」     Add iOS 15 compatibility + replace Orion with Jinx + rewrite with async-await
+- 「Violyn」    Fix temporary files getting deleted too early on iOS 14
 - 「Naiad」     Local and native NovelAI diffusion with upscaling. Hopefully for macOS and iOS, maybe just macOS.
-- 「StarForge」 Add K2 support
+- 「StarForge」 Add K2 support. And I need to actually make the repo public, that would help too
 - 「Satella」   Add 3DTouch enable/disable per app
 - 「Vivy」      Maybe switch to SwiftUI? Also fix the prefs sometimes not applying
 - 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
