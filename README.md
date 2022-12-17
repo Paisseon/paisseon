@@ -20,8 +20,6 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 ### To-Do List 🗒
 - 「Satella」   Add iOS 16 compatibility
 - 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
-- 「Erika」     Add iOS 15 compatibility + replace Orion with Jinx + rewrite with async-await
-- 「Violyn」    Fix temporary files getting deleted too early on iOS 14
 - 「Naiad」     Local and native NovelAI diffusion with upscaling. Hopefully for macOS and iOS, maybe just macOS.
 - 「StarForge」 Add K2 support. And I need to actually make the repo public, that would help too
 - 「Satella」   Add 3DTouch enable/disable per app
