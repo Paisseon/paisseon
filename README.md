@@ -18,7 +18,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Satella」   Add iOS 16 compatibility
+- 「Jinx」      Replace Objective-C code with Assembly
 - 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
 - 「Naiad」     Local and native NovelAI diffusion with upscaling. Hopefully for macOS and iOS, maybe just macOS.
 - 「Erika」     Fix whatever is making it not work on Sileo + Xina combination
