@@ -21,6 +21,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - 「Jinx」      Replace Objective-C code with Assembly
 - 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
 - 「Naiad」     Local and native NovelAI diffusion with upscaling. Hopefully for macOS and iOS, maybe just macOS.
+- 「Filza K」   Fix crack not working when localisations are active in Filza
 - 「Erika」     Fix whatever is making it not work on Sileo + Xina combination
 - 「StarForge」 Add K2 support. And I need to actually make the repo public, that would help too
 - 「Satella」   Add 3DTouch enable/disable per app
