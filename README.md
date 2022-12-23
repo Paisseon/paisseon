@@ -6,7 +6,7 @@ Hello! I'm an iOS tweak developer with an interest in software liberation (Ahoy!
 ### Contact Me ✉️
 Use one of the below channels for fastest replies-- GitHub doesn't send notifications, so it may be several days before I see anything
 
-- [u/paisseon](https://reddit.com/u/paisseon) on Reddit (my chat is broken, DM instead)
+- [u/paisseon](https://reddit.com/u/paisseon) on Reddit (my chat is broken, DM instead. That means you, whoever sent me 23 messages I can't see.)
 - [EmiliaMajiTenshi#4364](https://discord.gg/VM2ZVWqxsj) on Discord
 
 ### Actively Updated 🆕
