@@ -19,6 +19,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 
 ### To-Do List 🗒
 - 「Naiad」     Fix image-to-image and test on iOS
+- 「PaiBloxx」  Switch to a more efficient PAC
+- 「Reverie」   Rewrite using Jinx
 - 「Jinx」      Replace Objective-C code with Assembly
 - 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
 - 「Filza K」   Fix crack not working when localisations are active in Filza
