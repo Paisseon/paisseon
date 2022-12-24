@@ -18,7 +18,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Naiad」     Local and native NovelAI diffusion with upscaling. Hopefully for macOS and iOS, maybe just macOS.
+- 「Naiad」     Fix image-to-image and test on iOS
 - 「Jinx」      Replace Objective-C code with Assembly
 - 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
 - 「Filza K」   Fix crack not working when localisations are active in Filza
