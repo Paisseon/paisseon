@@ -23,7 +23,7 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - 「Reverie」   Rewrite using Jinx
 - 「Jinx」      Replace Objective-C code with Assembly
 - 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
-- 「Filza K」   Fix crack not working when localisations are active in Filza
+- 「Filza K」   Fix crack not working when localisations are active in Filza. Same for Erika
 - 「Erika」     Fix whatever is making it not work on Sileo + Xina combination
 - 「StarForge」 Add K2 support. And I need to actually make the repo public, that would help too
 - 「Satella」   Add 3DTouch enable/disable per app
