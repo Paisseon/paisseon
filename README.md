@@ -18,11 +18,10 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Naiad」     Fix a crash on iOS (maybe split the model into multiple archives?)
 - 「Satella」   Only use Cephei in prefs bundle, find another way to read elsewhere
 - 「PaiBloxx」  Switch to a more efficient PAC
 - 「Reverie」   Rewrite using Jinx
-- 「Jinx」      Replace Objective-C code with Assembly
+- 「Naiad」     Fix a crash on iOS (maybe split the model into multiple archives?)
 - 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
 - 「Filza K」   Fix crack not working when localisations are active in Filza. Same for Erika
 - 「Erika」     Fix whatever is making it not work on Sileo + Xina combination
