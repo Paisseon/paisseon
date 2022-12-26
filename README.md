@@ -18,7 +18,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Naiad」     Fix image-to-image and test on iOS
+- 「Naiad」     Fix a crash on iOS (maybe split the model into multiple archives?)
+- 「Satella」   Only use Cephei in prefs bundle, find another way to read elsewhere
 - 「PaiBloxx」  Switch to a more efficient PAC
 - 「Reverie」   Rewrite using Jinx
 - 「Jinx」      Replace Objective-C code with Assembly
