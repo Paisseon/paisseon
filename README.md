@@ -10,10 +10,13 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - [EmiliaMajiTenshi#4364](https://discord.gg/VM2ZVWqxsj) on Discord
 
 ### Actively Updated 🆕
+- Chocola
 - Erika
 - Ishtar
+- Naiad
 - Satella
 - Satella Jailed
+- StarForge
 - Violyn
 - Vivy
 
