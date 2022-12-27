@@ -18,14 +18,9 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Satella」   Only use Cephei in prefs bundle, find another way to read elsewhere
-- 「PaiBloxx」  Switch to a more efficient PAC
-- 「Reverie」   Rewrite using Jinx
-- 「Naiad」     Fix a crash on iOS (maybe split the model into multiple archives?)
-- 「Chocola」   Add iOS 15 compatibility + replace Orion with Jinx
-- 「Filza K」   Fix crack not working when localisations are active in Filza. Same for Erika
-- 「Erika」     Fix whatever is making it not work on Sileo + Xina combination
-- 「StarForge」 Add K2 support. And I need to actually make the repo public, that would help too
-- 「Satella」   Add 3DTouch enable/disable per app
-- 「Vivy」      Maybe switch to SwiftUI? Also fix the prefs sometimes not applying
-- 「Reverie」   Try to add requested features, i.e., muting alarms and throttling CPU
+- 「Satella」                  Only use Cephei in prefs bundle, find another way to read elsewhere
+- 「PaiBloxx」                 Switch to a more efficient PAC
+- 「Naiad」                    Fix a diskwrite crash on iOS (maybe split the model into multiple archives?)
+- 「Chocola + Vivy + Reverie」 Rewrite in Orion
+- 「Filza + Erika」            Fix compatibility with language other than English and Danish
+- 「StarForge」                Add K2 support eventually
