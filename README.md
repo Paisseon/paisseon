@@ -20,10 +20,9 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Satella」                  Only use Cephei in prefs bundle, find another way to read elsewhere
 - 「PaiBloxx」                 Switch to a more efficient PAC
 - 「Naiad」                    Fix a diskwrite crash on iOS (maybe split the model into multiple archives?)
-- 「Chocola + Vivy + Reverie」 Rewrite in Orion
+- 「Chocola + Vivy + Reverie」 Rewrite in Jinx instead of Orion
 - 「Vivy」                     Switch to state-based observers (with AsyncBytes-style cached progress) and fix images with nonstandard proportions
 - 「FilzaCrack + Erika」       Fix compatibility with language other than English and Danish
 - 「StarForge」                Add K2 support eventually
