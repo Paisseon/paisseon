@@ -22,9 +22,8 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 ### To-Do List 🗒
 - 「PaiBloxx」                 Switch to a more efficient PAC
 - 「Apollo Crack」             Fix Satella bypass on iOS 15
-- 「Naiad」                    Fix a diskwrite crash on iOS (maybe split the model into multiple archives?)
+- 「Naiad」                    Fix model using too much memory on iOS (maybe it just requires more than 4GB? idk)
 - 「Chocola + Vivy + Reverie」 Rewrite in Jinx instead of Orion
 - 「Vivy」                     Switch to state-based observers (with AsyncBytes-style cached progress) and fix images with nonstandard proportions
-- 「Filza Crack + Erika」      Fix compatibility with language other than English and Danish
 - 「StarForge」                Add K2 support eventually
 - 「Ishtar」                   Open source it since the CSYP hack is no longer updated. After I update it to 0.0.4 with the latest version of Jinx
