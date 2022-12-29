@@ -27,3 +27,4 @@ Use one of the below channels for fastest replies-- GitHub doesn't send notifica
 - 「Vivy」                     Switch to state-based observers (with AsyncBytes-style cached progress) and fix images with nonstandard proportions
 - 「StarForge」                Add K2 support eventually
 - 「Ishtar」                   Open source it since the CSYP hack is no longer updated. After I update it to 0.0.4 with the latest version of Jinx
+- 「Peep Reborn」              Update to iOS 15 and rewrite it in Jinx
