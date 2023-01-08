@@ -20,8 +20,7 @@ Use one of the below channels for faster replies-- GH issues don't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Chocola + Vivy + Reverie」 Rewrite in Jinx instead of Orion
-- 「Chocola」                  Add iOS 15 support
-- 「Vivy」                     Switch to state-based observers (with cached progress) and fix images with nonstandard proportions
-- 「StarForge」                Add K2 support eventually
-- 「Peep Reborn」              Update to iOS 15 and rewrite it in Jinx
+- 「Reverie」     Rewrite in Jinx instead of Orion
+- 「Vivy」        Switch to state-based observers (with cached progress) and fix images with nonstandard proportions
+- 「StarForge」   Add K2 support eventually
+- 「Peep Reborn」 Update to iOS 15 and rewrite it in Jinx
