@@ -20,7 +20,5 @@ Use one of the below channels for faster replies-- GH issues don't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Reverie」     Rewrite in Jinx instead of Orion
-- 「Vivy」        Switch to state-based observers (with cached progress) and fix images with nonstandard proportions
+- 「Vivy」        Rewrite in Jinx, fix image scaling, etc.
 - 「StarForge」   Add K2 support eventually
-- 「Peep Reborn」 Update to iOS 15 and rewrite it in Jinx
