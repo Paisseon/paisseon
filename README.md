@@ -6,19 +6,24 @@ Hello! I'm an iOS tweak developer with an interest in software liberation (Ahoy!
 ### Contact Me ✉️
 Use one of the below channels for faster replies-- GH issues don't send notifications.
 
+- [Join CyPwn](https://discord.gg/cypwn) on Discord
+- [satella@social.nekover.se](https://social.nekover.se/@satella) on Mastodon
+- [tella-tan@matrix.org](https://matrix.to/#/#cypwnserver:matrix.org) on Matrix
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
-- [EmiliaMajiTenshi#4364](https://discord.gg/cypwn) on Discord
 
 ### Actively Updated 🆕
 - Chocola
 - Erika
-- Naiad
+- Jinx
+- Powder
 - Satella
-- Satella Jailed
 - StarForge
 - Violyn
 - Vivy
 
 ### To-Do List 🗒
-- 「Vivy」        Rewrite in Jinx, fix image scaling, etc.
+- 「Jinx」        Improve Swift function hooking in FishBones
+- 「Jinx」        Clean up redundant and/or inelegant code in PowPow
+- 「Jinx」        Improve thread injection on macOS Ventura
+- 「Powder」      Figure out why some people are having crashes
 - 「StarForge」   Add K2 support eventually
