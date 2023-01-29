@@ -22,7 +22,7 @@ Use one of the below channels for faster replies-- GH issues don't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Jinx」        Improve Swift function hooking in FishBones
+- 「Jinx」        Add Libhooker and Substitute function hooking API maybe?
 - 「Jinx」        Improve thread injection on macOS Ventura
 - 「Powder」      Figure out why some people are having crashes
 - 「StarForge」   Add K2 support eventually
