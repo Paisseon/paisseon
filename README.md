@@ -4,7 +4,7 @@
 Hello! I'm an iOS tweak developer with an interest in software liberation (Ahoy! 🏴‍☠️) and getting lost in stories (I usually find my way out). Mostly code in Swift. Summer holiday is my only large block of free time, so updates are sparse outside of that.
 
 ### Contact Me ✉️
-Use one of the below channels for faster replies-- GH issues don't send notifications.
+For fastest replies, ping me on Discord/Matrix during a weekend. I also see Reddit DMs, but not Reddit Chat or Discord DM.
 
 - [Join CyPwn](https://discord.gg/cypwn) on Discord
 - [satella@social.nekover.se](https://social.nekover.se/@satella) on Mastodon
@@ -22,6 +22,6 @@ Use one of the below channels for faster replies-- GH issues don't send notifica
 - Vivy
 
 ### To-Do List 🗒
-- 「Jinx」      Improve thread injection on macOS Ventura
-- 「Jinx」      Add Swift demangler to FishBones
+- 「Jinx」      Try to fix function hooking for Substitute (Libhooker works perfectly)
+- 「Satella」   Restrict Stealth feature to Libhooker because of the above
 - 「StarForge」 Add K2 support eventually
