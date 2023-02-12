@@ -13,6 +13,7 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 
 ### Actively Updated 🆕
 - Chocola
+- Echidna
 - Erika
 - Jinx
 - Powder
@@ -23,5 +24,4 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 
 ### To-Do List 🗒
 - 「Jinx」      Try to fix function hooking for Substitute (Libhooker works perfectly)
-- 「Satella」   Restrict Stealth feature to Libhooker because of the above
 - 「StarForge」 Add K2 support eventually
