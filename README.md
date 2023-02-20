@@ -23,5 +23,5 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - Vivy
 
 ### To-Do List 🗒
-- 「Jinx」      Try to fix function hooking for Substitute (Libhooker works perfectly)
+- 「Jinx」      Add support for batch hooking (both multiple methods under one hook, and multiple functions in one memory page)
 - 「StarForge」 Add K2 support eventually
