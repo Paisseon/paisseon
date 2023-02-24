@@ -23,8 +23,10 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - Vivy
 
 ### To-Do List 🗒
-- 「Jinx」           Add support for batch hooking (Hook and HookFunc)
+- 「PaiBloxx」       Add support for Xina? Also *finally* get around to using my new PAC format
+- 「Jinx」           Add batch hooking (Hook and HookFunc)
 - 「Jinx」           Add support for Luz
+- 「Azula」          My own dylib injector, eta son
 - 「Everything」     Clean up organisation once Jinx 1.3 comes out, update docs, etc.
 - 「Satella Jailed」 Write an app to patch .ipa's on iOS and macOS
 - 「StarForge」      Add K2 support eventually
