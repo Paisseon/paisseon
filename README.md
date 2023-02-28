@@ -24,7 +24,6 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 
 ### To-Do List 🗒
 - 「PaiBloxx」       Add support for Xina? Also *finally* get around to using my new PAC format
-- 「Jinx」           Add batch hooking (Hook and HookFunc)
 - 「Jinx」           Add support for Luz
 - 「Everything」     Clean up organisation once Jinx 1.3 comes out, update docs, etc.
 - 「Satella Jailed」 Write a simple patcher using AzulaKit
