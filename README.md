@@ -29,4 +29,3 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - 「Satella Jailed」 Write a simple patcher using AzulaKit
 - 「StarForge」      Add K2 support eventually
 - 「StarForge」      Add more cool mods for K1
-- 「StarForge」      Switch from TSLPatcher to HoloPatcher
