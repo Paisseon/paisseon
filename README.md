@@ -12,6 +12,7 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - [u/paisseon](https://reddit.com/u/paisseon) on Reddit
 
 ### Actively Updated 🆕
+- Azula
 - Erika
 - Jinx
 - Satella
@@ -21,8 +22,5 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 
 ### To-Do List 🗒
 - 「PaiBloxx」    Add support for Xina? Also *finally* get around to using my new PAC format
-- 「Peep Reborn」 Fix EggNotch compatibility, re-add preferences once I make Jinx 1.3's templates
-- 「Satella」     Update to Jinx 1.3 with the new template, HookClass   
 - 「Jinx」        Add support for Luz
-- 「Everything」  Clean up organisation, update docs, etc.
 - 「StarForge」   Add K2 support eventually
