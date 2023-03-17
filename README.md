@@ -21,5 +21,6 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - Vivy
 
 ### To-Do List 🗒
-- 「Jinx」        Add support for rootless
-- 「StarForge」   Add K2 support eventually
+- 「Everything」     Add rootless support (I now have palera1n on 16.3-- compatibility patches incoming!)
+- 「Satella Jailed」 Add 0,00kr price option. Which I thought it did but under some circumstances it doesn't
+- 「StarForge」      Add K2 support eventually
