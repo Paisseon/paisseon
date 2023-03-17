@@ -21,6 +21,5 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - Vivy
 
 ### To-Do List 🗒
-- 「PaiBloxx」    Add support for Xina? Also *finally* get around to using my new PAC format
-- 「Jinx」        Add support for Luz
+- 「Jinx」        Add support for rootless
 - 「StarForge」   Add K2 support eventually
