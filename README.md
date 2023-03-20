@@ -21,5 +21,5 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - Vivy
 
 ### To-Do List 🗒
-- 「Everything」     Nvm on the rootless support, for some reason app injection doesn't work
+- 「Everything」     Fuck it, gonna try rootless again. Wish me luck.
 - 「StarForge」      Add K2 support eventually
