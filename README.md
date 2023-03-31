@@ -21,5 +21,9 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - Vivy
 
 ### To-Do List 🗒
-- 「Everything」     Fuck it, gonna try rootless again. Wish me luck.
+- 「Satella」        Re-add the Stealth toggle
+- 「Satella Jailed」 Make a better UI and update to match Satella 1.7.2
+- 「Azula」          Attempt to fix lack of read permission for imported files
+- 「Everything」     Theos supports rootless now so I will try to also
+- 「Jinx」           Add Dragon support maybe??? Once vr1s adds rootless
 - 「StarForge」      Add K2 support eventually
