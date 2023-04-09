@@ -23,7 +23,7 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 ### To-Do List 🗒
 - 「Satella」        Re-add the Stealth toggle
 - 「Satella Jailed」 Make a better UI and update to match Satella 1.8.0
+- 「Satella Jailed」 Fix the patcher script (and use Azula if available)
 - 「Azula」          Attempt to fix lack of read permission for imported files
-- 「Everything」     Rootless support in progress
-- 「Jinx」           Add Dragon support maybe??? Once vr1s adds rootless
+- 「Everything」     Rootless support in progress. Shit's broken tho
 - 「StarForge」      Add K2 support eventually
