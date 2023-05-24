@@ -14,14 +14,15 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 ### Actively Updated 🆕
 - Azula
 - Erika
+- Holocron
 - Jinx
 - Satella
-- StarForge
 - Violyn
 - Vivy
 
 ### To-Do List 🗒
-- 「Satella Jailed」 Make a better UI and update to match Satella 1.8.1
-- 「Azula」          Attempt to fix lack of read permission for imported files
-- 「Everything」     Rootless support is READY! I just need to add it
-- 「StarForge」      Add K2 support eventually
+- 「Erika」          Do everything better
+- 「Violyn」         Read above
+- 「Azula」          Get security scoping for imports, but do it properly this time
+- 「Holocron」       Full rewrite. Still no K2 support lol
+- 「PaiBloxx」       Rewrite everything in Swift
