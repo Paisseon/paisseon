@@ -14,7 +14,6 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 ### Actively Updated 🆕
 - Azula
 - Erika
-- Holocron
 - Jinx
 - Satella
 - Violyn
@@ -24,5 +23,5 @@ For fastest replies, ping me on Discord/Matrix during a weekend. I also see Redd
 - 「Erika」          Do everything better
 - 「Violyn」         Read above
 - 「Azula」          Get security scoping for imports, but do it properly this time
-- 「Holocron」       Full rewrite. Still no K2 support lol
+- 「Star Forge」     Full rewrite. Still no K2 support lol
 - 「PaiBloxx」       Rewrite everything in Swift
